@@ -103,7 +103,7 @@ Russian — native | Polish — B2 | English — B1
 
 ## Let's connect
 
-[LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/daniil-zayats-aabb01403/)) · [Email](mailto:daniilzayatss@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/daniil-zayats-aabb01403/) · [Email](mailto:daniilzayatss@gmail.com)
 
 ---
 
