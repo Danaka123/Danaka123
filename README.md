@@ -46,10 +46,10 @@ What I did:
 
 ---
 
-### [Media Buying Report Automation](https://github.com/Danaka123/media-buying-report-automation)
-Python, Pandas, openpyxl — production reporting tool
+### [Telegram Ads CPV Benchmark Analysis](https://github.com/Danaka123/Data-Analytics)
+Python, Pandas, Seaborn — real advertising data
 
-Automated weekly report delivery for 5+ media buying clients (Built for a performance marketing agency — client names anonymised). — 20+ reports generated per week with zero manual work.
+Looked at a dataset of Telegram channel ad placements for a performance marketing agency and built a Cost Per View (CPV) benchmark across categories, formats, and audience tiers.
 
 What I did:
 - Pulled together dozens of raw tables from different sources into one dataset with Pandas (`merge`, `concat`)
