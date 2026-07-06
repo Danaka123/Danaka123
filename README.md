@@ -46,7 +46,7 @@ What I did:
 
 ---
 
-### [Telegram Ads CPV Benchmark Analysis](https://github.com/Danaka123/Data-Analytics)
+### [Telegram Ads CPV Benchmark Analysis](https://github.com/Danaka123/telegram-ads-cpv-analysis)
 Python, Pandas, Seaborn — real advertising data
 
 Looked at a dataset of Telegram channel ad placements for a performance marketing agency and built a Cost Per View (CPV) benchmark across categories, formats, and audience tiers.
