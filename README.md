@@ -87,6 +87,17 @@ What I did:
 
 ---
 
+### [Database project from university](https://github.com/Danaka123/Streaming-Platform-Management-System)
+PostgresSQL, pgAdmin 4
+
+For this project, I needed to choose a topic (Streaming Platform Management System) and use it as the basis for creating a table relationship diagram.
+
+What I did:
+- Created the tables and populated them with data using two separate scripts.
+- I also used built-in features such as functions, triggers, views, and concurrency.
+
+---
+
 ## Education & Courses
 
 - BSc in Computer Science — University of Gdańsk (Sep 2025 – present)
